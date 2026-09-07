@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RiskLens — Country Risk Intelligence</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <h1>RiskLens.</h1>
+    <p>AI-Assisted Country Risk & Economic Intelligence Platform</p>
+    <span class="source-note">Source: World Bank Open Data — GDP Growth, Inflation, Debt, Unemployment</span>
+  </header>
+
+  <section id="overview" class="dashboard-section">
+    <span class="flow-step">Step 1 / 6 — Executive Overview</span>
+    <h2>Executive Overview</h2>
+    <p>Snapshot of macroeconomic risk across 10 major economies.</p>
+    <div id="overview-cards" class="card-grid"></div>
+  </section>
+
+  <section id="scorecard" class="dashboard-section">
+    <span class="flow-step">Step 2 / 6 — Country Risk Scorecard</span>
+    <h2>Country Risk Scorecard</h2>
+    <p>Countries ranked from highest to lowest composite risk score.</p>
+    <table id="scorecard-table"></table>
+  </section>
+
+  <section id="charts" class="dashboard-section">
+    <span class="flow-step">Step 3 / 6 — Indicator Breakdown</span>
+    <h2>Indicator Breakdown</h2>
+    <p>How each country compares on composite risk score.</p>
+    <canvas id="riskChart"></canvas>
+  </section>
+
+  <section id="high-risk" class="dashboard-section">
+    <span class="flow-step">Step 4 / 6 — High-Risk Deep Dive</span>
+    <h2>High-Risk Deep Dive</h2>
+    <p>Countries with the highest composite risk scores, and why.</p>
+    <div id="high-risk-cards" class="card-grid"></div>
+  </section>
+
+  <section id="low-risk" class="dashboard-section">
+    <span class="flow-step">Step 5 / 6 — Stable Economies</span>
+    <h2>Stable Economies</h2>
+    <p>Countries with the lowest composite risk scores.</p>
+    <div id="low-risk-cards" class="card-grid"></div>
+  </section>
+
+  <section id="takeaways" class="dashboard-section">
+    <span class="flow-step">Step 6 / 6 — Key Takeaways</span>
+    <h2>Key Takeaways</h2>
+    <ul id="takeaways-list" class="takeaway-list"></ul>
+  </section>
+
+  <footer>
+    RiskLens — built from World Bank Open Data. Composite risk scores are modeled estimates, not official ratings.
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

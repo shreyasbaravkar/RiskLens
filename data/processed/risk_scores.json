@@ -1,0 +1,92 @@
+[
+  {
+    "country":"ZAF",
+    "gdp_growth":0.5348435319,
+    "inflation":4.3611524652,
+    "debt_to_gdp":82.7627080034,
+    "unemployment":32.279,
+    "risk_score":52.3,
+    "risk_level":"Moderate Risk"
+  },
+  {
+    "country":"GBR",
+    "gdp_growth":1.0802771686,
+    "inflation":3.2715729464,
+    "debt_to_gdp":130.7358883658,
+    "unemployment":4.361,
+    "risk_score":45.6,
+    "risk_level":"Moderate Risk"
+  },
+  {
+    "country":"USA",
+    "gdp_growth":2.7931871536,
+    "inflation":2.9495252049,
+    "debt_to_gdp":115.7683526183,
+    "unemployment":4.022,
+    "risk_score":36.9,
+    "risk_level":"Moderate Risk"
+  },
+  {
+    "country":"BRA",
+    "gdp_growth":3.419315165,
+    "inflation":4.3674640765,
+    "debt_to_gdp":81.8554431191,
+    "unemployment":6.801,
+    "risk_score":27.8,
+    "risk_level":"Low Risk"
+  },
+  {
+    "country":"TUR",
+    "gdp_growth":3.3276230894,
+    "inflation":58.50645073,
+    "debt_to_gdp":26.619234493,
+    "unemployment":8.8,
+    "risk_score":20.8,
+    "risk_level":"Low Risk"
+  },
+  {
+    "country":"IND",
+    "gdp_growth":7.0992789318,
+    "inflation":4.9530355097,
+    "debt_to_gdp":46.5224986659,
+    "unemployment":4.173,
+    "risk_score":7.2,
+    "risk_level":"Low Risk"
+  },
+  {
+    "country":"ARG",
+    "gdp_growth":-1.3429307216,
+    "inflation":219.8839290146,
+    "debt_to_gdp":null,
+    "unemployment":7.15,
+    "risk_score":null,
+    "risk_level":"Insufficient Data"
+  },
+  {
+    "country":"CHN",
+    "gdp_growth":4.9583037879,
+    "inflation":0.2181289384,
+    "debt_to_gdp":null,
+    "unemployment":4.59,
+    "risk_score":null,
+    "risk_level":"Insufficient Data"
+  },
+  {
+    "country":"NGA",
+    "gdp_growth":4.0710665015,
+    "inflation":33.2416590553,
+    "debt_to_gdp":null,
+    "unemployment":3.045,
+    "risk_score":null,
+    "risk_level":"Insufficient Data"
+  },
+  {
+    "country":"PAK",
+    "gdp_growth":3.0817629558,
+    "inflation":12.632531853,
+    "debt_to_gdp":null,
+    "unemployment":5.492,
+    "risk_score":null,
+    "risk_level":"Insufficient Data"
+  }
+]

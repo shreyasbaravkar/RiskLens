@@ -1,0 +1,2108 @@
+[
+  {
+    "country": "USA",
+    "indicator": "gdp_growth",
+    "year": "2024",
+    "value": 2.79318715363841
+  },
+  {
+    "country": "USA",
+    "indicator": "gdp_growth",
+    "year": "2023",
+    "value": 2.93436322440155
+  },
+  {
+    "country": "USA",
+    "indicator": "gdp_growth",
+    "year": "2022",
+    "value": 2.52421385073222
+  },
+  {
+    "country": "USA",
+    "indicator": "gdp_growth",
+    "year": "2021",
+    "value": 6.15202247867526
+  },
+  {
+    "country": "USA",
+    "indicator": "gdp_growth",
+    "year": "2020",
+    "value": -2.081375977796
+  },
+  {
+    "country": "USA",
+    "indicator": "gdp_growth",
+    "year": "2019",
+    "value": 2.58382533052225
+  },
+  {
+    "country": "USA",
+    "indicator": "gdp_growth",
+    "year": "2018",
+    "value": 2.96650506701943
+  },
+  {
+    "country": "USA",
+    "indicator": "gdp_growth",
+    "year": "2017",
+    "value": 2.45762230126449
+  },
+  {
+    "country": "USA",
+    "indicator": "gdp_growth",
+    "year": "2016",
+    "value": 1.81945147909089
+  },
+  {
+    "country": "USA",
+    "indicator": "gdp_growth",
+    "year": "2015",
+    "value": 2.94555045227337
+  },
+  {
+    "country": "USA",
+    "indicator": "inflation",
+    "year": "2024",
+    "value": 2.94952520485207
+  },
+  {
+    "country": "USA",
+    "indicator": "inflation",
+    "year": "2023",
+    "value": 4.11633838374488
+  },
+  {
+    "country": "USA",
+    "indicator": "inflation",
+    "year": "2022",
+    "value": 8.00279982052121
+  },
+  {
+    "country": "USA",
+    "indicator": "inflation",
+    "year": "2021",
+    "value": 4.69785886363742
+  },
+  {
+    "country": "USA",
+    "indicator": "inflation",
+    "year": "2020",
+    "value": 1.23358439630629
+  },
+  {
+    "country": "USA",
+    "indicator": "inflation",
+    "year": "2019",
+    "value": 1.81221007526021
+  },
+  {
+    "country": "USA",
+    "indicator": "inflation",
+    "year": "2018",
+    "value": 2.44258329692817
+  },
+  {
+    "country": "USA",
+    "indicator": "inflation",
+    "year": "2017",
+    "value": 2.13011000365961
+  },
+  {
+    "country": "USA",
+    "indicator": "inflation",
+    "year": "2016",
+    "value": 1.26158320570536
+  },
+  {
+    "country": "USA",
+    "indicator": "inflation",
+    "year": "2015",
+    "value": 0.118627135552451
+  },
+  {
+    "country": "USA",
+    "indicator": "debt_to_gdp",
+    "year": "2024",
+    "value": 115.768352618316
+  },
+  {
+    "country": "USA",
+    "indicator": "debt_to_gdp",
+    "year": "2023",
+    "value": 114.73462594651
+  },
+  {
+    "country": "USA",
+    "indicator": "debt_to_gdp",
+    "year": "2022",
+    "value": 112.71753248772
+  },
+  {
+    "country": "USA",
+    "indicator": "debt_to_gdp",
+    "year": "2021",
+    "value": 118.284809538371
+  },
+  {
+    "country": "USA",
+    "indicator": "debt_to_gdp",
+    "year": "2020",
+    "value": 124.509268439559
+  },
+  {
+    "country": "USA",
+    "indicator": "debt_to_gdp",
+    "year": "2019",
+    "value": 100.234364169849
+  },
+  {
+    "country": "USA",
+    "indicator": "debt_to_gdp",
+    "year": "2018",
+    "value": 98.62934291533
+  },
+  {
+    "country": "USA",
+    "indicator": "debt_to_gdp",
+    "year": "2017",
+    "value": 97.2074691432871
+  },
+  {
+    "country": "USA",
+    "indicator": "debt_to_gdp",
+    "year": "2016",
+    "value": 98.1169229551873
+  },
+  {
+    "country": "USA",
+    "indicator": "debt_to_gdp",
+    "year": "2015",
+    "value": 96.1410808045622
+  },
+  {
+    "country": "USA",
+    "indicator": "unemployment",
+    "year": "2024",
+    "value": 4.022
+  },
+  {
+    "country": "USA",
+    "indicator": "unemployment",
+    "year": "2023",
+    "value": 3.638
+  },
+  {
+    "country": "USA",
+    "indicator": "unemployment",
+    "year": "2022",
+    "value": 3.65
+  },
+  {
+    "country": "USA",
+    "indicator": "unemployment",
+    "year": "2021",
+    "value": 5.349
+  },
+  {
+    "country": "USA",
+    "indicator": "unemployment",
+    "year": "2020",
+    "value": 8.055
+  },
+  {
+    "country": "USA",
+    "indicator": "unemployment",
+    "year": "2019",
+    "value": 3.669
+  },
+  {
+    "country": "USA",
+    "indicator": "unemployment",
+    "year": "2018",
+    "value": 3.896
+  },
+  {
+    "country": "USA",
+    "indicator": "unemployment",
+    "year": "2017",
+    "value": 4.355
+  },
+  {
+    "country": "USA",
+    "indicator": "unemployment",
+    "year": "2016",
+    "value": 4.869
+  },
+  {
+    "country": "USA",
+    "indicator": "unemployment",
+    "year": "2015",
+    "value": 5.28
+  },
+  {
+    "country": "GBR",
+    "indicator": "gdp_growth",
+    "year": "2024",
+    "value": 1.08027716858781
+  },
+  {
+    "country": "GBR",
+    "indicator": "gdp_growth",
+    "year": "2023",
+    "value": 0.271650048355255
+  },
+  {
+    "country": "GBR",
+    "indicator": "gdp_growth",
+    "year": "2022",
+    "value": 5.14970388522993
+  },
+  {
+    "country": "GBR",
+    "indicator": "gdp_growth",
+    "year": "2021",
+    "value": 8.5431118453255
+  },
+  {
+    "country": "GBR",
+    "indicator": "gdp_growth",
+    "year": "2020",
+    "value": -10.047896637362
+  },
+  {
+    "country": "GBR",
+    "indicator": "gdp_growth",
+    "year": "2019",
+    "value": 1.25629899760824
+  },
+  {
+    "country": "GBR",
+    "indicator": "gdp_growth",
+    "year": "2018",
+    "value": 1.55133095078786
+  },
+  {
+    "country": "GBR",
+    "indicator": "gdp_growth",
+    "year": "2017",
+    "value": 3.02322219840339
+  },
+  {
+    "country": "GBR",
+    "indicator": "gdp_growth",
+    "year": "2016",
+    "value": 2.20652020635357
+  },
+  {
+    "country": "GBR",
+    "indicator": "gdp_growth",
+    "year": "2015",
+    "value": 2.14040560033371
+  },
+  {
+    "country": "GBR",
+    "indicator": "inflation",
+    "year": "2024",
+    "value": 3.2715729463592
+  },
+  {
+    "country": "GBR",
+    "indicator": "inflation",
+    "year": "2023",
+    "value": 6.79396706793963
+  },
+  {
+    "country": "GBR",
+    "indicator": "inflation",
+    "year": "2022",
+    "value": 7.92204883147902
+  },
+  {
+    "country": "GBR",
+    "indicator": "inflation",
+    "year": "2021",
+    "value": 2.51837109614213
+  },
+  {
+    "country": "GBR",
+    "indicator": "inflation",
+    "year": "2020",
+    "value": 0.989486703772491
+  },
+  {
+    "country": "GBR",
+    "indicator": "inflation",
+    "year": "2019",
+    "value": 1.73810460086513
+  },
+  {
+    "country": "GBR",
+    "indicator": "inflation",
+    "year": "2018",
+    "value": 2.29283990345938
+  },
+  {
+    "country": "GBR",
+    "indicator": "inflation",
+    "year": "2017",
+    "value": 2.55775577557747
+  },
+  {
+    "country": "GBR",
+    "indicator": "inflation",
+    "year": "2016",
+    "value": 1.0084173681141
+  },
+  {
+    "country": "GBR",
+    "indicator": "inflation",
+    "year": "2015",
+    "value": 0.36804684232536
+  },
+  {
+    "country": "GBR",
+    "indicator": "debt_to_gdp",
+    "year": "2024",
+    "value": 130.735888365813
+  },
+  {
+    "country": "GBR",
+    "indicator": "debt_to_gdp",
+    "year": "2023",
+    "value": 136.142431919028
+  },
+  {
+    "country": "GBR",
+    "indicator": "debt_to_gdp",
+    "year": "2022",
+    "value": 138.215904304967
+  },
+  {
+    "country": "GBR",
+    "indicator": "debt_to_gdp",
+    "year": "2021",
+    "value": 183.804848939919
+  },
+  {
+    "country": "GBR",
+    "indicator": "debt_to_gdp",
+    "year": "2020",
+    "value": 194.682828796265
+  },
+  {
+    "country": "GBR",
+    "indicator": "debt_to_gdp",
+    "year": "2019",
+    "value": 158.972569875821
+  },
+  {
+    "country": "GBR",
+    "indicator": "debt_to_gdp",
+    "year": "2018",
+    "value": 156.766820519267
+  },
+  {
+    "country": "GBR",
+    "indicator": "debt_to_gdp",
+    "year": "2017",
+    "value": 160.141177233502
+  },
+  {
+    "country": "GBR",
+    "indicator": "debt_to_gdp",
+    "year": "2016",
+    "value": 155.581504971929
+  },
+  {
+    "country": "GBR",
+    "indicator": "debt_to_gdp",
+    "year": "2015",
+    "value": 147.063146778865
+  },
+  {
+    "country": "GBR",
+    "indicator": "unemployment",
+    "year": "2024",
+    "value": 4.361
+  },
+  {
+    "country": "GBR",
+    "indicator": "unemployment",
+    "year": "2023",
+    "value": 4.025
+  },
+  {
+    "country": "GBR",
+    "indicator": "unemployment",
+    "year": "2022",
+    "value": 3.768
+  },
+  {
+    "country": "GBR",
+    "indicator": "unemployment",
+    "year": "2021",
+    "value": 4.864
+  },
+  {
+    "country": "GBR",
+    "indicator": "unemployment",
+    "year": "2020",
+    "value": 4.472
+  },
+  {
+    "country": "GBR",
+    "indicator": "unemployment",
+    "year": "2019",
+    "value": 3.657
+  },
+  {
+    "country": "GBR",
+    "indicator": "unemployment",
+    "year": "2018",
+    "value": 4.145
+  },
+  {
+    "country": "GBR",
+    "indicator": "unemployment",
+    "year": "2017",
+    "value": 4.501
+  },
+  {
+    "country": "GBR",
+    "indicator": "unemployment",
+    "year": "2016",
+    "value": 4.909
+  },
+  {
+    "country": "GBR",
+    "indicator": "unemployment",
+    "year": "2015",
+    "value": 5.552
+  },
+  {
+    "country": "IND",
+    "indicator": "gdp_growth",
+    "year": "2024",
+    "value": 7.09927893176518
+  },
+  {
+    "country": "IND",
+    "indicator": "gdp_growth",
+    "year": "2023",
+    "value": 7.210224629335
+  },
+  {
+    "country": "IND",
+    "indicator": "gdp_growth",
+    "year": "2022",
+    "value": 7.6093649776932
+  },
+  {
+    "country": "IND",
+    "indicator": "gdp_growth",
+    "year": "2021",
+    "value": 9.68959249191741
+  },
+  {
+    "country": "IND",
+    "indicator": "gdp_growth",
+    "year": "2020",
+    "value": -5.77772470687303
+  },
+  {
+    "country": "IND",
+    "indicator": "gdp_growth",
+    "year": "2019",
+    "value": 3.87143694070524
+  },
+  {
+    "country": "IND",
+    "indicator": "gdp_growth",
+    "year": "2018",
+    "value": 6.45385134495295
+  },
+  {
+    "country": "IND",
+    "indicator": "gdp_growth",
+    "year": "2017",
+    "value": 6.79538341902422
+  },
+  {
+    "country": "IND",
+    "indicator": "gdp_growth",
+    "year": "2016",
+    "value": 8.25630550176662
+  },
+  {
+    "country": "IND",
+    "indicator": "gdp_growth",
+    "year": "2015",
+    "value": 7.99625378567987
+  },
+  {
+    "country": "IND",
+    "indicator": "inflation",
+    "year": "2024",
+    "value": 4.95303550973661
+  },
+  {
+    "country": "IND",
+    "indicator": "inflation",
+    "year": "2023",
+    "value": 5.64914318907925
+  },
+  {
+    "country": "IND",
+    "indicator": "inflation",
+    "year": "2022",
+    "value": 6.69903414079858
+  },
+  {
+    "country": "IND",
+    "indicator": "inflation",
+    "year": "2021",
+    "value": 5.13140747176364
+  },
+  {
+    "country": "IND",
+    "indicator": "inflation",
+    "year": "2020",
+    "value": 6.6234367762853
+  },
+  {
+    "country": "IND",
+    "indicator": "inflation",
+    "year": "2019",
+    "value": 3.72950573539123
+  },
+  {
+    "country": "IND",
+    "indicator": "inflation",
+    "year": "2018",
+    "value": 3.93882646691643
+  },
+  {
+    "country": "IND",
+    "indicator": "inflation",
+    "year": "2017",
+    "value": 3.32817337461305
+  },
+  {
+    "country": "IND",
+    "indicator": "inflation",
+    "year": "2016",
+    "value": 4.94821634062134
+  },
+  {
+    "country": "IND",
+    "indicator": "inflation",
+    "year": "2015",
+    "value": 4.90697344127249
+  },
+  {
+    "country": "IND",
+    "indicator": "debt_to_gdp",
+    "year": "2018",
+    "value": 46.5224986659322
+  },
+  {
+    "country": "IND",
+    "indicator": "debt_to_gdp",
+    "year": "2017",
+    "value": 47.5836093800197
+  },
+  {
+    "country": "IND",
+    "indicator": "debt_to_gdp",
+    "year": "2016",
+    "value": 47.6337555915272
+  },
+  {
+    "country": "IND",
+    "indicator": "debt_to_gdp",
+    "year": "2015",
+    "value": 49.9647183856551
+  },
+  {
+    "country": "IND",
+    "indicator": "unemployment",
+    "year": "2024",
+    "value": 4.173
+  },
+  {
+    "country": "IND",
+    "indicator": "unemployment",
+    "year": "2023",
+    "value": 4.172
+  },
+  {
+    "country": "IND",
+    "indicator": "unemployment",
+    "year": "2022",
+    "value": 4.822
+  },
+  {
+    "country": "IND",
+    "indicator": "unemployment",
+    "year": "2021",
+    "value": 6.38
+  },
+  {
+    "country": "IND",
+    "indicator": "unemployment",
+    "year": "2020",
+    "value": 7.859
+  },
+  {
+    "country": "IND",
+    "indicator": "unemployment",
+    "year": "2019",
+    "value": 6.51
+  },
+  {
+    "country": "IND",
+    "indicator": "unemployment",
+    "year": "2018",
+    "value": 7.652
+  },
+  {
+    "country": "IND",
+    "indicator": "unemployment",
+    "year": "2017",
+    "value": 7.626
+  },
+  {
+    "country": "IND",
+    "indicator": "unemployment",
+    "year": "2016",
+    "value": 7.611
+  },
+  {
+    "country": "IND",
+    "indicator": "unemployment",
+    "year": "2015",
+    "value": 7.629
+  },
+  {
+    "country": "CHN",
+    "indicator": "gdp_growth",
+    "year": "2024",
+    "value": 4.95830378788091
+  },
+  {
+    "country": "CHN",
+    "indicator": "gdp_growth",
+    "year": "2023",
+    "value": 5.41600334492955
+  },
+  {
+    "country": "CHN",
+    "indicator": "gdp_growth",
+    "year": "2022",
+    "value": 3.13385438394069
+  },
+  {
+    "country": "CHN",
+    "indicator": "gdp_growth",
+    "year": "2021",
+    "value": 8.57038414981781
+  },
+  {
+    "country": "CHN",
+    "indicator": "gdp_growth",
+    "year": "2020",
+    "value": 2.33950385203023
+  },
+  {
+    "country": "CHN",
+    "indicator": "gdp_growth",
+    "year": "2019",
+    "value": 6.06737806333672
+  },
+  {
+    "country": "CHN",
+    "indicator": "gdp_growth",
+    "year": "2018",
+    "value": 6.757806142324
+  },
+  {
+    "country": "CHN",
+    "indicator": "gdp_growth",
+    "year": "2017",
+    "value": 6.89123916636191
+  },
+  {
+    "country": "CHN",
+    "indicator": "gdp_growth",
+    "year": "2016",
+    "value": 6.7736886867727
+  },
+  {
+    "country": "CHN",
+    "indicator": "gdp_growth",
+    "year": "2015",
+    "value": 6.98162255562367
+  },
+  {
+    "country": "CHN",
+    "indicator": "inflation",
+    "year": "2024",
+    "value": 0.218128938439177
+  },
+  {
+    "country": "CHN",
+    "indicator": "inflation",
+    "year": "2023",
+    "value": 0.234836828893051
+  },
+  {
+    "country": "CHN",
+    "indicator": "inflation",
+    "year": "2022",
+    "value": 1.97357555739051
+  },
+  {
+    "country": "CHN",
+    "indicator": "inflation",
+    "year": "2021",
+    "value": 0.981015135544882
+  },
+  {
+    "country": "CHN",
+    "indicator": "inflation",
+    "year": "2020",
+    "value": 2.41942189457782
+  },
+  {
+    "country": "CHN",
+    "indicator": "inflation",
+    "year": "2019",
+    "value": 2.89923416358227
+  },
+  {
+    "country": "CHN",
+    "indicator": "inflation",
+    "year": "2018",
+    "value": 2.07479039965576
+  },
+  {
+    "country": "CHN",
+    "indicator": "inflation",
+    "year": "2017",
+    "value": 1.59313600071436
+  },
+  {
+    "country": "CHN",
+    "indicator": "inflation",
+    "year": "2016",
+    "value": 2.00000182191943
+  },
+  {
+    "country": "CHN",
+    "indicator": "inflation",
+    "year": "2015",
+    "value": 1.43702380935655
+  },
+  {
+    "country": "CHN",
+    "indicator": "unemployment",
+    "year": "2024",
+    "value": 4.59
+  },
+  {
+    "country": "CHN",
+    "indicator": "unemployment",
+    "year": "2023",
+    "value": 4.67
+  },
+  {
+    "country": "CHN",
+    "indicator": "unemployment",
+    "year": "2022",
+    "value": 4.98
+  },
+  {
+    "country": "CHN",
+    "indicator": "unemployment",
+    "year": "2021",
+    "value": 4.55
+  },
+  {
+    "country": "CHN",
+    "indicator": "unemployment",
+    "year": "2020",
+    "value": 5
+  },
+  {
+    "country": "CHN",
+    "indicator": "unemployment",
+    "year": "2019",
+    "value": 4.56
+  },
+  {
+    "country": "CHN",
+    "indicator": "unemployment",
+    "year": "2018",
+    "value": 4.31
+  },
+  {
+    "country": "CHN",
+    "indicator": "unemployment",
+    "year": "2017",
+    "value": 4.47
+  },
+  {
+    "country": "CHN",
+    "indicator": "unemployment",
+    "year": "2016",
+    "value": 4.56
+  },
+  {
+    "country": "CHN",
+    "indicator": "unemployment",
+    "year": "2015",
+    "value": 4.65
+  },
+  {
+    "country": "BRA",
+    "indicator": "gdp_growth",
+    "year": "2024",
+    "value": 3.41931516501906
+  },
+  {
+    "country": "BRA",
+    "indicator": "gdp_growth",
+    "year": "2023",
+    "value": 3.24165532906981
+  },
+  {
+    "country": "BRA",
+    "indicator": "gdp_growth",
+    "year": "2022",
+    "value": 3.01669435393015
+  },
+  {
+    "country": "BRA",
+    "indicator": "gdp_growth",
+    "year": "2021",
+    "value": 4.76260437908608
+  },
+  {
+    "country": "BRA",
+    "indicator": "gdp_growth",
+    "year": "2020",
+    "value": -3.2767587964736
+  },
+  {
+    "country": "BRA",
+    "indicator": "gdp_growth",
+    "year": "2019",
+    "value": 1.22077782360842
+  },
+  {
+    "country": "BRA",
+    "indicator": "gdp_growth",
+    "year": "2018",
+    "value": 1.783666761634
+  },
+  {
+    "country": "BRA",
+    "indicator": "gdp_growth",
+    "year": "2017",
+    "value": 1.32286905404399
+  },
+  {
+    "country": "BRA",
+    "indicator": "gdp_growth",
+    "year": "2016",
+    "value": -3.27591690782192
+  },
+  {
+    "country": "BRA",
+    "indicator": "gdp_growth",
+    "year": "2015",
+    "value": -3.54576339269425
+  },
+  {
+    "country": "BRA",
+    "indicator": "inflation",
+    "year": "2024",
+    "value": 4.36746407652337
+  },
+  {
+    "country": "BRA",
+    "indicator": "inflation",
+    "year": "2023",
+    "value": 4.59356282283204
+  },
+  {
+    "country": "BRA",
+    "indicator": "inflation",
+    "year": "2022",
+    "value": 9.28010608956873
+  },
+  {
+    "country": "BRA",
+    "indicator": "inflation",
+    "year": "2021",
+    "value": 8.30165975585673
+  },
+  {
+    "country": "BRA",
+    "indicator": "inflation",
+    "year": "2020",
+    "value": 3.21176803803376
+  },
+  {
+    "country": "BRA",
+    "indicator": "inflation",
+    "year": "2019",
+    "value": 3.73297621216894
+  },
+  {
+    "country": "BRA",
+    "indicator": "inflation",
+    "year": "2018",
+    "value": 3.66485028376729
+  },
+  {
+    "country": "BRA",
+    "indicator": "inflation",
+    "year": "2017",
+    "value": 3.44637335032669
+  },
+  {
+    "country": "BRA",
+    "indicator": "inflation",
+    "year": "2016",
+    "value": 8.73914352329393
+  },
+  {
+    "country": "BRA",
+    "indicator": "inflation",
+    "year": "2015",
+    "value": 9.02990102416136
+  },
+  {
+    "country": "BRA",
+    "indicator": "debt_to_gdp",
+    "year": "2024",
+    "value": 81.8554431191023
+  },
+  {
+    "country": "BRA",
+    "indicator": "debt_to_gdp",
+    "year": "2023",
+    "value": 83.0317498523878
+  },
+  {
+    "country": "BRA",
+    "indicator": "debt_to_gdp",
+    "year": "2022",
+    "value": 79.1023218878495
+  },
+  {
+    "country": "BRA",
+    "indicator": "debt_to_gdp",
+    "year": "2021",
+    "value": 85.0115036768016
+  },
+  {
+    "country": "BRA",
+    "indicator": "debt_to_gdp",
+    "year": "2020",
+    "value": 98.7098819468714
+  },
+  {
+    "country": "BRA",
+    "indicator": "debt_to_gdp",
+    "year": "2019",
+    "value": 92.5652531945418
+  },
+  {
+    "country": "BRA",
+    "indicator": "debt_to_gdp",
+    "year": "2018",
+    "value": 86.6078841211512
+  },
+  {
+    "country": "BRA",
+    "indicator": "debt_to_gdp",
+    "year": "2017",
+    "value": 83.669202649666
+  },
+  {
+    "country": "BRA",
+    "indicator": "debt_to_gdp",
+    "year": "2016",
+    "value": 73.4188038014782
+  },
+  {
+    "country": "BRA",
+    "indicator": "debt_to_gdp",
+    "year": "2015",
+    "value": 67.5375540310909
+  },
+  {
+    "country": "BRA",
+    "indicator": "unemployment",
+    "year": "2024",
+    "value": 6.801
+  },
+  {
+    "country": "BRA",
+    "indicator": "unemployment",
+    "year": "2023",
+    "value": 7.947
+  },
+  {
+    "country": "BRA",
+    "indicator": "unemployment",
+    "year": "2022",
+    "value": 9.231
+  },
+  {
+    "country": "BRA",
+    "indicator": "unemployment",
+    "year": "2021",
+    "value": 13.158
+  },
+  {
+    "country": "BRA",
+    "indicator": "unemployment",
+    "year": "2020",
+    "value": 13.697
+  },
+  {
+    "country": "BRA",
+    "indicator": "unemployment",
+    "year": "2019",
+    "value": 11.936
+  },
+  {
+    "country": "BRA",
+    "indicator": "unemployment",
+    "year": "2018",
+    "value": 12.329
+  },
+  {
+    "country": "BRA",
+    "indicator": "unemployment",
+    "year": "2017",
+    "value": 12.792
+  },
+  {
+    "country": "BRA",
+    "indicator": "unemployment",
+    "year": "2016",
+    "value": 11.58
+  },
+  {
+    "country": "BRA",
+    "indicator": "unemployment",
+    "year": "2015",
+    "value": 8.538
+  },
+  {
+    "country": "ZAF",
+    "indicator": "gdp_growth",
+    "year": "2024",
+    "value": 0.534843531905139
+  },
+  {
+    "country": "ZAF",
+    "indicator": "gdp_growth",
+    "year": "2023",
+    "value": 0.80610455095804
+  },
+  {
+    "country": "ZAF",
+    "indicator": "gdp_growth",
+    "year": "2022",
+    "value": 2.05813661692193
+  },
+  {
+    "country": "ZAF",
+    "indicator": "gdp_growth",
+    "year": "2021",
+    "value": 4.85864865060148
+  },
+  {
+    "country": "ZAF",
+    "indicator": "gdp_growth",
+    "year": "2020",
+    "value": -6.1689177146757
+  },
+  {
+    "country": "ZAF",
+    "indicator": "gdp_growth",
+    "year": "2019",
+    "value": 0.25993557687633
+  },
+  {
+    "country": "ZAF",
+    "indicator": "gdp_growth",
+    "year": "2018",
+    "value": 1.55678384721676
+  },
+  {
+    "country": "ZAF",
+    "indicator": "gdp_growth",
+    "year": "2017",
+    "value": 1.15794695181735
+  },
+  {
+    "country": "ZAF",
+    "indicator": "gdp_growth",
+    "year": "2016",
+    "value": 0.664552307858116
+  },
+  {
+    "country": "ZAF",
+    "indicator": "gdp_growth",
+    "year": "2015",
+    "value": 1.32186223678229
+  },
+  {
+    "country": "ZAF",
+    "indicator": "inflation",
+    "year": "2024",
+    "value": 4.36115246518962
+  },
+  {
+    "country": "ZAF",
+    "indicator": "inflation",
+    "year": "2023",
+    "value": 6.0752438457966
+  },
+  {
+    "country": "ZAF",
+    "indicator": "inflation",
+    "year": "2022",
+    "value": 7.03987272546482
+  },
+  {
+    "country": "ZAF",
+    "indicator": "inflation",
+    "year": "2021",
+    "value": 4.61874544887136
+  },
+  {
+    "country": "ZAF",
+    "indicator": "inflation",
+    "year": "2020",
+    "value": 3.23238831615113
+  },
+  {
+    "country": "ZAF",
+    "indicator": "inflation",
+    "year": "2019",
+    "value": 4.10285075461156
+  },
+  {
+    "country": "ZAF",
+    "indicator": "inflation",
+    "year": "2018",
+    "value": 4.50987264867388
+  },
+  {
+    "country": "ZAF",
+    "indicator": "inflation",
+    "year": "2017",
+    "value": 5.18618655524149
+  },
+  {
+    "country": "ZAF",
+    "indicator": "inflation",
+    "year": "2016",
+    "value": 6.60290842394872
+  },
+  {
+    "country": "ZAF",
+    "indicator": "inflation",
+    "year": "2015",
+    "value": 4.51869094892506
+  },
+  {
+    "country": "ZAF",
+    "indicator": "debt_to_gdp",
+    "year": "2024",
+    "value": 82.7627080034486
+  },
+  {
+    "country": "ZAF",
+    "indicator": "debt_to_gdp",
+    "year": "2023",
+    "value": 79.4140619824567
+  },
+  {
+    "country": "ZAF",
+    "indicator": "debt_to_gdp",
+    "year": "2022",
+    "value": 76.2333180266081
+  },
+  {
+    "country": "ZAF",
+    "indicator": "debt_to_gdp",
+    "year": "2021",
+    "value": 74.0826080051444
+  },
+  {
+    "country": "ZAF",
+    "indicator": "debt_to_gdp",
+    "year": "2020",
+    "value": 75.7255090793216
+  },
+  {
+    "country": "ZAF",
+    "indicator": "debt_to_gdp",
+    "year": "2019",
+    "value": 64.5892781351104
+  },
+  {
+    "country": "ZAF",
+    "indicator": "debt_to_gdp",
+    "year": "2018",
+    "value": 59.1023114070608
+  },
+  {
+    "country": "ZAF",
+    "indicator": "debt_to_gdp",
+    "year": "2017",
+    "value": 56.2597208390879
+  },
+  {
+    "country": "ZAF",
+    "indicator": "debt_to_gdp",
+    "year": "2016",
+    "value": 53.7387913884354
+  },
+  {
+    "country": "ZAF",
+    "indicator": "debt_to_gdp",
+    "year": "2015",
+    "value": 52.6511572360833
+  },
+  {
+    "country": "ZAF",
+    "indicator": "unemployment",
+    "year": "2024",
+    "value": 32.279
+  },
+  {
+    "country": "ZAF",
+    "indicator": "unemployment",
+    "year": "2023",
+    "value": 32.098
+  },
+  {
+    "country": "ZAF",
+    "indicator": "unemployment",
+    "year": "2022",
+    "value": 33.268
+  },
+  {
+    "country": "ZAF",
+    "indicator": "unemployment",
+    "year": "2021",
+    "value": 34.007
+  },
+  {
+    "country": "ZAF",
+    "indicator": "unemployment",
+    "year": "2020",
+    "value": 29.217
+  },
+  {
+    "country": "ZAF",
+    "indicator": "unemployment",
+    "year": "2019",
+    "value": 28.468
+  },
+  {
+    "country": "ZAF",
+    "indicator": "unemployment",
+    "year": "2018",
+    "value": 26.906
+  },
+  {
+    "country": "ZAF",
+    "indicator": "unemployment",
+    "year": "2017",
+    "value": 27.035
+  },
+  {
+    "country": "ZAF",
+    "indicator": "unemployment",
+    "year": "2016",
+    "value": 26.536
+  },
+  {
+    "country": "ZAF",
+    "indicator": "unemployment",
+    "year": "2015",
+    "value": 25.149
+  },
+  {
+    "country": "NGA",
+    "indicator": "gdp_growth",
+    "year": "2024",
+    "value": 4.07106650147703
+  },
+  {
+    "country": "NGA",
+    "indicator": "gdp_growth",
+    "year": "2023",
+    "value": 3.31590368111438
+  },
+  {
+    "country": "NGA",
+    "indicator": "gdp_growth",
+    "year": "2022",
+    "value": 4.31882949157136
+  },
+  {
+    "country": "NGA",
+    "indicator": "gdp_growth",
+    "year": "2021",
+    "value": 1.109252540249
+  },
+  {
+    "country": "NGA",
+    "indicator": "gdp_growth",
+    "year": "2020",
+    "value": -6.36889840468527
+  },
+  {
+    "country": "NGA",
+    "indicator": "gdp_growth",
+    "year": "2019",
+    "value": 2.20842927835211
+  },
+  {
+    "country": "NGA",
+    "indicator": "gdp_growth",
+    "year": "2018",
+    "value": 1.92275734199798
+  },
+  {
+    "country": "NGA",
+    "indicator": "gdp_growth",
+    "year": "2017",
+    "value": 0.805886619091581
+  },
+  {
+    "country": "NGA",
+    "indicator": "gdp_growth",
+    "year": "2016",
+    "value": -1.61686894903467
+  },
+  {
+    "country": "NGA",
+    "indicator": "gdp_growth",
+    "year": "2015",
+    "value": 2.65269329541779
+  },
+  {
+    "country": "NGA",
+    "indicator": "inflation",
+    "year": "2024",
+    "value": 33.2416590552749
+  },
+  {
+    "country": "NGA",
+    "indicator": "inflation",
+    "year": "2023",
+    "value": 24.659550203114
+  },
+  {
+    "country": "NGA",
+    "indicator": "inflation",
+    "year": "2022",
+    "value": 18.8471877843274
+  },
+  {
+    "country": "NGA",
+    "indicator": "inflation",
+    "year": "2021",
+    "value": 16.9528457221608
+  },
+  {
+    "country": "NGA",
+    "indicator": "inflation",
+    "year": "2020",
+    "value": 13.2460234276598
+  },
+  {
+    "country": "NGA",
+    "indicator": "inflation",
+    "year": "2019",
+    "value": 11.3964223378115
+  },
+  {
+    "country": "NGA",
+    "indicator": "inflation",
+    "year": "2018",
+    "value": 12.0951065173432
+  },
+  {
+    "country": "NGA",
+    "indicator": "inflation",
+    "year": "2017",
+    "value": 16.5022662139641
+  },
+  {
+    "country": "NGA",
+    "indicator": "inflation",
+    "year": "2016",
+    "value": 15.6968126387972
+  },
+  {
+    "country": "NGA",
+    "indicator": "inflation",
+    "year": "2015",
+    "value": 9.00943498007706
+  },
+  {
+    "country": "NGA",
+    "indicator": "unemployment",
+    "year": "2024",
+    "value": 3.045
+  },
+  {
+    "country": "NGA",
+    "indicator": "unemployment",
+    "year": "2023",
+    "value": 3.074
+  },
+  {
+    "country": "NGA",
+    "indicator": "unemployment",
+    "year": "2022",
+    "value": 3.827
+  },
+  {
+    "country": "NGA",
+    "indicator": "unemployment",
+    "year": "2021",
+    "value": 5.404
+  },
+  {
+    "country": "NGA",
+    "indicator": "unemployment",
+    "year": "2020",
+    "value": 5.714
+  },
+  {
+    "country": "NGA",
+    "indicator": "unemployment",
+    "year": "2019",
+    "value": 5.206
+  },
+  {
+    "country": "NGA",
+    "indicator": "unemployment",
+    "year": "2018",
+    "value": 5.069
+  },
+  {
+    "country": "NGA",
+    "indicator": "unemployment",
+    "year": "2017",
+    "value": 4.83
+  },
+  {
+    "country": "NGA",
+    "indicator": "unemployment",
+    "year": "2016",
+    "value": 4.499
+  },
+  {
+    "country": "NGA",
+    "indicator": "unemployment",
+    "year": "2015",
+    "value": 4.134
+  },
+  {
+    "country": "PAK",
+    "indicator": "gdp_growth",
+    "year": "2024",
+    "value": 3.08176295579301
+  },
+  {
+    "country": "PAK",
+    "indicator": "gdp_growth",
+    "year": "2023",
+    "value": -0.414935997088406
+  },
+  {
+    "country": "PAK",
+    "indicator": "gdp_growth",
+    "year": "2022",
+    "value": 4.7781068690358
+  },
+  {
+    "country": "PAK",
+    "indicator": "gdp_growth",
+    "year": "2021",
+    "value": 6.51388575852702
+  },
+  {
+    "country": "PAK",
+    "indicator": "gdp_growth",
+    "year": "2020",
+    "value": -1.27408744338709
+  },
+  {
+    "country": "PAK",
+    "indicator": "gdp_growth",
+    "year": "2019",
+    "value": 2.49763692943365
+  },
+  {
+    "country": "PAK",
+    "indicator": "gdp_growth",
+    "year": "2018",
+    "value": 6.15170261099519
+  },
+  {
+    "country": "PAK",
+    "indicator": "gdp_growth",
+    "year": "2017",
+    "value": 4.43262590683975
+  },
+  {
+    "country": "PAK",
+    "indicator": "gdp_growth",
+    "year": "2016",
+    "value": 6.57383828511043
+  },
+  {
+    "country": "PAK",
+    "indicator": "gdp_growth",
+    "year": "2015",
+    "value": 4.21794209572506
+  },
+  {
+    "country": "PAK",
+    "indicator": "inflation",
+    "year": "2024",
+    "value": 12.6325318530452
+  },
+  {
+    "country": "PAK",
+    "indicator": "inflation",
+    "year": "2023",
+    "value": 30.7681280657005
+  },
+  {
+    "country": "PAK",
+    "indicator": "inflation",
+    "year": "2022",
+    "value": 19.8738599646655
+  },
+  {
+    "country": "PAK",
+    "indicator": "inflation",
+    "year": "2021",
+    "value": 9.49641577285205
+  },
+  {
+    "country": "PAK",
+    "indicator": "inflation",
+    "year": "2020",
+    "value": 9.74011619320125
+  },
+  {
+    "country": "PAK",
+    "indicator": "inflation",
+    "year": "2019",
+    "value": 10.5780305672025
+  },
+  {
+    "country": "PAK",
+    "indicator": "inflation",
+    "year": "2018",
+    "value": 5.07805725868917
+  },
+  {
+    "country": "PAK",
+    "indicator": "inflation",
+    "year": "2017",
+    "value": 4.08537368032608
+  },
+  {
+    "country": "PAK",
+    "indicator": "inflation",
+    "year": "2016",
+    "value": 3.7651191635658
+  },
+  {
+    "country": "PAK",
+    "indicator": "inflation",
+    "year": "2015",
+    "value": 2.52932817254229
+  },
+  {
+    "country": "PAK",
+    "indicator": "unemployment",
+    "year": "2024",
+    "value": 5.492
+  },
+  {
+    "country": "PAK",
+    "indicator": "unemployment",
+    "year": "2023",
+    "value": 5.237
+  },
+  {
+    "country": "PAK",
+    "indicator": "unemployment",
+    "year": "2022",
+    "value": 5.291
+  },
+  {
+    "country": "PAK",
+    "indicator": "unemployment",
+    "year": "2021",
+    "value": 6.338
+  },
+  {
+    "country": "PAK",
+    "indicator": "unemployment",
+    "year": "2020",
+    "value": 5.994
+  },
+  {
+    "country": "PAK",
+    "indicator": "unemployment",
+    "year": "2019",
+    "value": 4.83
+  },
+  {
+    "country": "PAK",
+    "indicator": "unemployment",
+    "year": "2018",
+    "value": 4.083
+  },
+  {
+    "country": "PAK",
+    "indicator": "unemployment",
+    "year": "2017",
+    "value": 3.204
+  },
+  {
+    "country": "PAK",
+    "indicator": "unemployment",
+    "year": "2016",
+    "value": 2.285
+  },
+  {
+    "country": "PAK",
+    "indicator": "unemployment",
+    "year": "2015",
+    "value": 3.566
+  },
+  {
+    "country": "TUR",
+    "indicator": "gdp_growth",
+    "year": "2024",
+    "value": 3.3276230893799
+  },
+  {
+    "country": "TUR",
+    "indicator": "gdp_growth",
+    "year": "2023",
+    "value": 5.04512369812289
+  },
+  {
+    "country": "TUR",
+    "indicator": "gdp_growth",
+    "year": "2022",
+    "value": 5.44122511322401
+  },
+  {
+    "country": "TUR",
+    "indicator": "gdp_growth",
+    "year": "2021",
+    "value": 11.811094450607
+  },
+  {
+    "country": "TUR",
+    "indicator": "gdp_growth",
+    "year": "2020",
+    "value": 1.80306247087255
+  },
+  {
+    "country": "TUR",
+    "indicator": "gdp_growth",
+    "year": "2019",
+    "value": 1.30162365464503
+  },
+  {
+    "country": "TUR",
+    "indicator": "gdp_growth",
+    "year": "2018",
+    "value": 3.46815306092219
+  },
+  {
+    "country": "TUR",
+    "indicator": "gdp_growth",
+    "year": "2017",
+    "value": 7.82585730002594
+  },
+  {
+    "country": "TUR",
+    "indicator": "gdp_growth",
+    "year": "2016",
+    "value": 3.32366508200445
+  },
+  {
+    "country": "TUR",
+    "indicator": "gdp_growth",
+    "year": "2015",
+    "value": 5.80557386628684
+  },
+  {
+    "country": "TUR",
+    "indicator": "inflation",
+    "year": "2024",
+    "value": 58.5064507300342
+  },
+  {
+    "country": "TUR",
+    "indicator": "inflation",
+    "year": "2023",
+    "value": 53.8594087593315
+  },
+  {
+    "country": "TUR",
+    "indicator": "inflation",
+    "year": "2022",
+    "value": 72.3088359891207
+  },
+  {
+    "country": "TUR",
+    "indicator": "inflation",
+    "year": "2021",
+    "value": 19.5964926913324
+  },
+  {
+    "country": "TUR",
+    "indicator": "inflation",
+    "year": "2020",
+    "value": 12.2789574462574
+  },
+  {
+    "country": "TUR",
+    "indicator": "inflation",
+    "year": "2019",
+    "value": 15.1768215720022
+  },
+  {
+    "country": "TUR",
+    "indicator": "inflation",
+    "year": "2018",
+    "value": 16.3324638988929
+  },
+  {
+    "country": "TUR",
+    "indicator": "inflation",
+    "year": "2017",
+    "value": 11.1443110840764
+  },
+  {
+    "country": "TUR",
+    "indicator": "inflation",
+    "year": "2016",
+    "value": 7.7751341532833
+  },
+  {
+    "country": "TUR",
+    "indicator": "inflation",
+    "year": "2015",
+    "value": 7.67085364845885
+  },
+  {
+    "country": "TUR",
+    "indicator": "debt_to_gdp",
+    "year": "2024",
+    "value": 26.6192344930079
+  },
+  {
+    "country": "TUR",
+    "indicator": "debt_to_gdp",
+    "year": "2023",
+    "value": 33.2548360254558
+  },
+  {
+    "country": "TUR",
+    "indicator": "debt_to_gdp",
+    "year": "2022",
+    "value": 35.3300843740665
+  },
+  {
+    "country": "TUR",
+    "indicator": "debt_to_gdp",
+    "year": "2021",
+    "value": 41.6375124693568
+  },
+  {
+    "country": "TUR",
+    "indicator": "debt_to_gdp",
+    "year": "2020",
+    "value": 41.0396523893444
+  },
+  {
+    "country": "TUR",
+    "indicator": "debt_to_gdp",
+    "year": "2019",
+    "value": 33.4600744570718
+  },
+  {
+    "country": "TUR",
+    "indicator": "debt_to_gdp",
+    "year": "2018",
+    "value": 29.3999927208091
+  },
+  {
+    "country": "TUR",
+    "indicator": "debt_to_gdp",
+    "year": "2017",
+    "value": 29.5734179673603
+  },
+  {
+    "country": "TUR",
+    "indicator": "debt_to_gdp",
+    "year": "2016",
+    "value": 30.075201418508
+  },
+  {
+    "country": "TUR",
+    "indicator": "debt_to_gdp",
+    "year": "2015",
+    "value": 29.145145266046
+  },
+  {
+    "country": "TUR",
+    "indicator": "unemployment",
+    "year": "2024",
+    "value": 8.8
+  },
+  {
+    "country": "TUR",
+    "indicator": "unemployment",
+    "year": "2023",
+    "value": 9.388
+  },
+  {
+    "country": "TUR",
+    "indicator": "unemployment",
+    "year": "2022",
+    "value": 10.465
+  },
+  {
+    "country": "TUR",
+    "indicator": "unemployment",
+    "year": "2021",
+    "value": 11.969
+  },
+  {
+    "country": "TUR",
+    "indicator": "unemployment",
+    "year": "2020",
+    "value": 13.148
+  },
+  {
+    "country": "TUR",
+    "indicator": "unemployment",
+    "year": "2019",
+    "value": 13.73
+  },
+  {
+    "country": "TUR",
+    "indicator": "unemployment",
+    "year": "2018",
+    "value": 10.956
+  },
+  {
+    "country": "TUR",
+    "indicator": "unemployment",
+    "year": "2017",
+    "value": 10.919
+  },
+  {
+    "country": "TUR",
+    "indicator": "unemployment",
+    "year": "2016",
+    "value": 10.899
+  },
+  {
+    "country": "TUR",
+    "indicator": "unemployment",
+    "year": "2015",
+    "value": 10.304
+  },
+  {
+    "country": "ARG",
+    "indicator": "gdp_growth",
+    "year": "2024",
+    "value": -1.34293072157739
+  },
+  {
+    "country": "ARG",
+    "indicator": "gdp_growth",
+    "year": "2023",
+    "value": -1.85578803046339
+  },
+  {
+    "country": "ARG",
+    "indicator": "gdp_growth",
+    "year": "2022",
+    "value": 6.02074537534855
+  },
+  {
+    "country": "ARG",
+    "indicator": "gdp_growth",
+    "year": "2021",
+    "value": 10.4418119882506
+  },
+  {
+    "country": "ARG",
+    "indicator": "gdp_growth",
+    "year": "2020",
+    "value": -9.9004848136464
+  },
+  {
+    "country": "ARG",
+    "indicator": "gdp_growth",
+    "year": "2019",
+    "value": -2.00086100285785
+  },
+  {
+    "country": "ARG",
+    "indicator": "gdp_growth",
+    "year": "2018",
+    "value": -2.61739646282038
+  },
+  {
+    "country": "ARG",
+    "indicator": "gdp_growth",
+    "year": "2017",
+    "value": 2.81850297775918
+  },
+  {
+    "country": "ARG",
+    "indicator": "gdp_growth",
+    "year": "2016",
+    "value": -2.08032784377811
+  },
+  {
+    "country": "ARG",
+    "indicator": "gdp_growth",
+    "year": "2015",
+    "value": 2.73115982828944
+  },
+  {
+    "country": "ARG",
+    "indicator": "inflation",
+    "year": "2024",
+    "value": 219.883929014578
+  },
+  {
+    "country": "ARG",
+    "indicator": "inflation",
+    "year": "2023",
+    "value": 133.488935594175
+  },
+  {
+    "country": "ARG",
+    "indicator": "inflation",
+    "year": "2022",
+    "value": 72.430757531824
+  },
+  {
+    "country": "ARG",
+    "indicator": "inflation",
+    "year": "2021",
+    "value": 48.4093786255199
+  },
+  {
+    "country": "ARG",
+    "indicator": "inflation",
+    "year": "2020",
+    "value": 42.0150947376509
+  },
+  {
+    "country": "ARG",
+    "indicator": "inflation",
+    "year": "2019",
+    "value": 53.5483043492339
+  },
+  {
+    "country": "ARG",
+    "indicator": "inflation",
+    "year": "2018",
+    "value": 34.2772237131003
+  },
+  {
+    "country": "ARG",
+    "indicator": "unemployment",
+    "year": "2024",
+    "value": 7.15
+  },
+  {
+    "country": "ARG",
+    "indicator": "unemployment",
+    "year": "2023",
+    "value": 6.139
+  },
+  {
+    "country": "ARG",
+    "indicator": "unemployment",
+    "year": "2022",
+    "value": 6.805
+  },
+  {
+    "country": "ARG",
+    "indicator": "unemployment",
+    "year": "2021",
+    "value": 8.736
+  },
+  {
+    "country": "ARG",
+    "indicator": "unemployment",
+    "year": "2020",
+    "value": 11.461
+  },
+  {
+    "country": "ARG",
+    "indicator": "unemployment",
+    "year": "2019",
+    "value": 9.843
+  },
+  {
+    "country": "ARG",
+    "indicator": "unemployment",
+    "year": "2018",
+    "value": 9.22
+  },
+  {
+    "country": "ARG",
+    "indicator": "unemployment",
+    "year": "2017",
+    "value": 8.347
+  },
+  {
+    "country": "ARG",
+    "indicator": "unemployment",
+    "year": "2016",
+    "value": 8.088
+  },
+  {
+    "country": "ARG",
+    "indicator": "unemployment",
+    "year": "2015",
+    "value": 7.577
+  }
+]
