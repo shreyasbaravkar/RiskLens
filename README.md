@@ -3,7 +3,7 @@
 A data pipeline and interactive dashboard that scores and visualizes sovereign
 economic risk across 10 major economies, using real World Bank data.
 
-**Live demo:** [add Netlify link here once deployed]
+**Live demo:** https://magnificent-banoffee-f35a2a.netlify.app
 
 ## What it does
 
